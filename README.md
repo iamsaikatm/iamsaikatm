@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SAIKAT MONDAL.
 - 👀 I’m an Computer Science Engineering student.
-- 🌱 I’m currently appeared in Seventh Semester.
-- 💞️ I’m looking for an internship or a full time Job
+- 🌱 I’m currently working as a Software Engineer @Oracle Cerner.
+- 💞️ Working hard to gain more knowledge and experience.
 - 📫 Contact me on - Email: saikatmondal7016@gmail.com | Mobile No: 9062131507
 
 <!---
